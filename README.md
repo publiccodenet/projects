@@ -18,9 +18,9 @@ $ bundle install
 ```bash
 $ bundle exec jekyll serve
 ```
-2. You can now view the website locally on <http://127.0.0.1:4000>
+2. You can now view the website locally on `http://localhost:4000`
 
-The server will rebuild the site every time a file changes, with the exception of [`_config.yml`](_config.yml).
+The server will rebuild the site every time a file changes, with the exception of `_config.yml`.
 
 # License
 
