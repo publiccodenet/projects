@@ -1,6 +1,6 @@
-# Foundation For Public Code Jekyll Theme Starter Kit
+# Projects site
 
-Contentless website to be used with the Foundation For Public Code Jekyll theme and GitHub pages.
+Website to inform about the projects done by the Foundation For Public Code.
 
 This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation For Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
 
