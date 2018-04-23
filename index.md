@@ -8,6 +8,6 @@ In a series of workshop, we want to build a network of collaborators to identify
 
 «Smart Cities? Public Code!» is a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
-## [`publiccode.yml`](https://github.com/publiccodenet/publiccode.yml)
+## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
 
 A simple easy to use developer-centric public administration Open Source project metadata format.
