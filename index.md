@@ -6,7 +6,7 @@ This project aims to further develop the concept of Public Code. More concretely
 
 In a series of workshop, we want to build a network of collaborators to identify directions for the development of public code, and set up research & development projects and grant applications.
 
-«Smart Cities? Public Code!» is a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
+**Smart Cities? Public Code!** is a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
 [smartcities.publiccode.net](https://smartcities.publiccode.net/)
 
