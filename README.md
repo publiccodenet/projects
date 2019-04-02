@@ -2,7 +2,7 @@
 
 Website to inform about the projects done by the Foundation for Public Code.
 
-This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation For Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
+This site builds with [Jekyll](http://jekyllrb.com/), as is the default of [GitHub pages](https://pages.github.com/) and uses the [Foundation for Public Code Jekyll Theme](https://github.com/publiccodenet/jekyll-theme).
 
 ## Installing locally
 
@@ -24,4 +24,4 @@ The server will rebuild the site every time a file changes, with the exception o
 
 # License
 
-© 2018 Foundation For Public Code
+© 2018 Foundation for Public Code
