@@ -1,5 +1,11 @@
 # Current projects
 
+## [Standard for Public Code](http://standard.publiccode.net/)
+
+The Standard for Public Code gives cities a model for building their own open source solutions to enable successful future reuse by other cities. It includes guidance for policymakers, city administrators, developers and vendors.
+
+This is the first version, and [we welcome all your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
+
 ## [Smart Cities? Public Code!](https://smartcities.publiccode.net/)
 
 This project aims to further develop the concept of Public Code. More concretely: How should we understand Public Code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of Public Code.
