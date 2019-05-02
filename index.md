@@ -2,7 +2,7 @@
 
 ## [Standard for Public Code](http://standard.publiccode.net/)
 
-The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, city administrators, developers, designers and vendors.
+The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
 
 This is a living document, and [we welcome all your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
@@ -17,6 +17,6 @@ In a series of workshops, we built a network of collaborators to identify direct
 
 ## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
 
-A simple easy to use developer-centric public administration Open Source project metadata format.
+A simple easy to use developer-centric public administration open source project metadata format.
 
 [github.com/publiccodenet/publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
