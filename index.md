@@ -1,10 +1,11 @@
-# Current projects
+# Current and past projects
 
 ## [Standard for Public Code](http://standard.publiccode.net/)
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
 
 This is a living document, and [we welcome all your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
+
 
 ## [Smart Cities? Public Code!](https://smartcities.publiccode.net/) (February 2018 - April 2019)
 
@@ -15,7 +16,7 @@ In a series of workshops, we built a network of collaborators to identify direct
 [Smart Cities? Public Code!](https://smartcities.publiccode.net/) was a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
 
-## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
+## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml) (2018)
 
 A simple, easy to use, developer-centric, public administration open source project metadata format.
 
