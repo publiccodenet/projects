@@ -8,7 +8,7 @@ This is a living document, and [we welcome all your feedback](http://standard.pu
 
 ## [Smart Cities? Public Code!](https://smartcities.publiccode.net/) (February 2018 - April 2019)
 
-This project aimed to further develop the concept of public code. More concretely: How should we understand public code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of public code.
+This project aimed to further develop the concept of public code. More concretely: How should we understand public code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of public code?
 
 In a series of workshops, we built a network of collaborators to identify directions for the development of public code, and set up research and development projects and grant applications.
 
@@ -17,6 +17,6 @@ In a series of workshops, we built a network of collaborators to identify direct
 
 ## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
 
-A simple easy to use developer-centric public administration open source project metadata format.
+A simple, easy to use, developer-centric, public administration open source project metadata format.
 
 [github.com/publiccodenet/publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
