@@ -1,6 +1,6 @@
 # Current and past projects
 
-## [Standard for Public Code](http://standard.publiccode.net/)
+## [Standard for Public Code](http://standard.publiccode.net/) (April 2019 - )
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
 
