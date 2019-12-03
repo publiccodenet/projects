@@ -6,6 +6,10 @@ The Standard for Public Code gives public organizations a model for building the
 
 This is a living document, and [we welcome all your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
+## [Governance game](https://github.com/publiccodenet/governance-game)
+
+An interactive game on governance of [Public Code](https://about.publiccode.net/glossary/public-code-definition.html). Still in development, we [welcome all suggestions and ideas](https://github.com/publiccodenet/governance-game/blob/develop/CONTRIBUTING.md).
+
 ## [Smart Cities? Public Code!](https://smartcities.publiccode.net/) (February 2018 - April 2019)
 
 This project aimed to further develop the concept of public code. More concretely: How should we understand public code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of public code?
