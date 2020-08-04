@@ -1,25 +1,29 @@
 # Current and past projects
 
-## [Standard for Public Code](http://standard.publiccode.net/)
+Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
+
+See more of our work in the [codebases we work with](https://publiccode.net/codebases/).
+
+## [Standard for Public Code](http://standard.publiccode.net/) (2019)
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
 
-This is a living document, and [we welcome all your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
+This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
-## [Governance game](https://github.com/publiccodenet/governance-game)
+## [Governance game](https://github.com/publiccodenet/governance-game) (2019)
 
-An interactive game on governance of [Public Code](https://about.publiccode.net/glossary/public-code-definition.html). Still in development, we [welcome all suggestions and ideas](https://github.com/publiccodenet/governance-game/blob/develop/CONTRIBUTING.md).
+An interactive game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
+
+The game is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
 ## [Smart Cities? Public Code!](https://smartcities.publiccode.net/) (February 2018 - April 2019)
 
-This project aimed to further develop the concept of public code. More concretely: How should we understand public code, and how can we create it? What kind of technological and institutional arrangements are needed to shift towards the production of public code?
+This research project aimed to further develop the concept of public code. It explored how we should understand public code, and how could we create it. What kind of technological and institutional arrangements are needed to shift towards the production of public code?
 
-In a series of workshops, we built a network of collaborators to identify directions for the development of public code, and set up research and development projects and grant applications.
-
-[Smart Cities? Public Code!](https://smartcities.publiccode.net/) was a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
+Smart Cities? Public Code! was a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
 ## [publiccode.yml](https://github.com/publiccodenet/publiccode.yml) (2018)
 
 A simple, easy to use, developer-centric, public administration open source project metadata format.
 
-[github.com/publiccodenet/publiccode.yml](https://github.com/publiccodenet/publiccode.yml)
+Adopted by the Italian government for all new public code projects in Italy, this standard powers the [Italian national open source software catalog](https://developers.italia.it/it/software/).
