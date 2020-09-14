@@ -40,4 +40,4 @@ Smart Cities? Public Code! was a collaboration between the City of Amsterdam, th
 
 A simple, easy to use, developer-centric, public administration open source project metadata format.
 
-Adopted by the Italian government for all new public code projects in Italy, this standard powers the [Italian national open source software catalog](https://developers.italia.it/it/software/).
+Adopted by the Italian government for all new public code projects in Italy, this standard powers the [Italian national open source software catalog](https://developers.italia.it/it/software).
