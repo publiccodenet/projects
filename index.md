@@ -14,6 +14,11 @@ The Standard for Public Code gives public organizations a model for building the
 
 This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
+#### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
+
+Together with Open & Agile Smart Cities we have created a free and open online introduction course to the Standard for Public Code.
+It's a self study course and it offers a certification of completion for those who finishes all the modules.
+
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
 An interactive game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
