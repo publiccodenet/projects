@@ -20,6 +20,11 @@ An interactive game exploring governance of a public codebase. It helps particip
 
 The game is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
+### [Let's talk about public code](https://podcast.publiccode.net)
+
+A podcast where we interview people working with public code codebases.
+Recorded as a live stream and then edited to an audio podcast version.
+
 ### [Bumperscripter](https://github.com/publiccodenet/bumperscripter/)
 
 We made a script for our livestreamed podcast [Let's talk about public code](https://www.youtube.com/playlist?list=PL_5ziu2gADmBPPsDlo4sMt1M7Yd8LvOBK) to easily generate variations of a video bumper animation.
