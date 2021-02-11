@@ -16,7 +16,7 @@ This is a living document, and [we welcome your feedback](http://standard.public
 
 #### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
 
-Together with Open & Agile Smart Cities we have created a free and open online introduction course to the Standard for Public Code.
+Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
 It's a self study course and it offers a certification of completion for those who finishes all the modules.
 
 ### [Governance game](https://github.com/publiccodenet/governance-game)
