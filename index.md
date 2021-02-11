@@ -22,7 +22,7 @@ The game is also useful as a tool for visualizing how a current governance model
 
 ### [Let's talk about public code](https://podcast.publiccode.net)
 
-A podcast where we interview people working with public code codebases.
+A podcast where we interview people with interesting perspectives on public code.
 Recorded as a live stream and then edited to an audio podcast version.
 
 ### [Bumperscripter](https://github.com/publiccodenet/bumperscripter/)
