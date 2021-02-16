@@ -1,8 +1,11 @@
-# Projects and resources
+# Resources and projects
 
 Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
 
-See more of our work in the [codebases we work with](https://publiccode.net/codebases/).
+See more of our work in:
+
+*  the [codebases we work with](https://publiccode.net/codebases/)
+* [our conference talks and articles we've written](talks-and-articles.md)
 
 ## Current projects
 
