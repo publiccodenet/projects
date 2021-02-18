@@ -27,5 +27,6 @@ Here are slides or recordings of conference talks we've given:
 
 We've written these blogposts and articles for publication on other platforms:
 
-- [Gemeenten en de markt bouwen samen de OpenZaak community](https://opensource.pleio.nl/groups/view/75fc54b2-f4bf-4e67-a931-1d5b5b4c038a/open-source-community/blog/view/fb71fce6-a4c9-4195-a0bb-ad08b9dabfb7/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) by Felix Faassen on opensource.pleio.nl (November 2020)
+- [Municipalities and the market are building the OpenZaak community together](https://opensource.pleio.nl/groups/view/75fc54b2-f4bf-4e67-a931-1d5b5b4c038a/open-source-community/blog/view/fb71fce6-a4c9-4195-a0bb-ad08b9dabfb7/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) by Felix Faassen on opensource.pleio.nl(November 2020) (in Dutch)
 - [Is reporting 100% of code coverage reasonable?](https://opensource.com/article/20/4/testing-code-coverage) by Eric Herman on Opensource.com (April 2020)
+
