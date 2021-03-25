@@ -8,7 +8,7 @@ Here are slides or recordings of conference talks we've given:
 
 - [The Governance Game - a conversation starter tool](https://foss-backstage.de/session/governance-game-conversation-starter-tool), lightning talk by Jan Ainali at FOSS Backstage conference (February 2021)
 - [How the Standard for Public Code can help you collaborate over space and time](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space), lightning talk by Eric Herman at FOSS Backstage conference (February 2021)
-- Open source wordt verplicht, wat nu?, panel discussion with Boris van Hoytema at the [Conferentie Nederland Digitaal](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal) (February 2021) (in Dutch)
+- [Open source will be mandatory, now what?](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal/documenten/videos/2021/02/18/open-source-wordt-verplicht-wat-nu), panel discussion with Boris van Hoytema at the [Conferentie Nederland Digitaal](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal) (February 2021) (in Dutch)
 - [Contributing (with) civil servants](https://fosdem.org/2021/schedule/event/community_devroom_contributing_with_civil_servants/), by Boris van Hoytema at [FOSDEM 2021](https://video.fosdem.org/2021/D.community/community_devroom_contributing_with_civil_servants.webm) (February 2021)
 - [OSPOs Everywhere: Universities, Governments and Businesses](https://youtu.be/nRohU4LxO-E), panel discussion with Boris van Hoytema at the [EU Open Source Policy Summit 2021](https://openforumeurope.org/event/policy-summit-2021/) (February 2021)
 - Standard for Public Code, by Jan Ainali at [Policies for open source in public agencies](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/) [[slides](https://hackmd.io/@Ainali/ryFCCIgCw#/)] [[video](https://youtu.be/oxCtmQrKAls?t=3259)] (January 2021) (in Swedish)
@@ -29,4 +29,3 @@ We've written these blogposts and articles for publication on other platforms:
 
 - [Municipalities and the market are building the OpenZaak community together](https://opensource.pleio.nl/groups/view/75fc54b2-f4bf-4e67-a931-1d5b5b4c038a/open-source-community/blog/view/fb71fce6-a4c9-4195-a0bb-ad08b9dabfb7/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) by Felix Faassen on opensource.pleio.nl(November 2020) (in Dutch)
 - [Is reporting 100% of code coverage reasonable?](https://opensource.com/article/20/4/testing-code-coverage) by Eric Herman on Opensource.com (April 2020)
-
