@@ -6,7 +6,7 @@ We believe in making our information as accessible and open as possible.
 
 Here are slides or recordings of conference talks we've given:
 
-- [The Governance Game: a tool for scenario modelling opensource collaborations](https://www.youtube.com/watch?v=Dt0WFla4eeM), Arts & Media by Jan Ainali at [Mozilla Festival](https://schedule.mozillafestival.org/session/ZXSPX3-1) (March 2021)
+- [The Governance Game: a tool for scenario modelling open source collaborations](https://www.youtube.com/watch?v=Dt0WFla4eeM), Arts & Media by Jan Ainali at [Mozilla Festival](https://schedule.mozillafestival.org/session/ZXSPX3-1) (March 2021)
 - [The Governance Game - a conversation starter tool](https://foss-backstage.de/session/governance-game-conversation-starter-tool), lightning talk by Jan Ainali at FOSS Backstage conference (February 2021)
 - [How the Standard for Public Code can help you collaborate over space and time](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space), lightning talk by Eric Herman at FOSS Backstage conference (February 2021)
 - Open source wordt verplicht, wat nu?, panel discussion with Boris van Hoytema at the [Conferentie Nederland Digitaal](https://www.nederlanddigitaal.nl/conferentie-nederland-digitaal) (February 2021) (in Dutch)
@@ -30,4 +30,3 @@ We've written these blogposts and articles for publication on other platforms:
 
 - [Municipalities and the market are building the OpenZaak community together](https://opensource.pleio.nl/groups/view/75fc54b2-f4bf-4e67-a931-1d5b5b4c038a/open-source-community/blog/view/fb71fce6-a4c9-4195-a0bb-ad08b9dabfb7/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) by Felix Faassen on opensource.pleio.nl(November 2020) (in Dutch)
 - [Is reporting 100% of code coverage reasonable?](https://opensource.com/article/20/4/testing-code-coverage) by Eric Herman on Opensource.com (April 2020)
-
