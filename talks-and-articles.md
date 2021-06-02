@@ -6,6 +6,7 @@ We believe in making our information as accessible and open as possible.
 
 Here are slides or recordings of conference talks we've given:
 
+- [Helping public organizations collectively develop and maintain public code](https://foss-north.se/2021/speakers-and-talks.html#jainali), by Jan Ainali at [FOSS-North](https://foss-north.se/2021/index.html) [[slides](https://files.publiccode.net/nextcloud/index.php/s/6dsfQHsoYR9W7DS)] [[video](https://youtu.be/gpGgeXHZr0M?t=5246)] (June 2021)
 - [The Governance Game: a tool for scenario modelling open source collaborations](https://schedule.mozillafestival.org/session/ZXSPX3-1), Arts & Media by Jan Ainali at [Mozilla Festival](https://schedule.mozillafestival.org/session/ZXSPX3-1) [[video](https://www.youtube.com/watch?v=Dt0WFla4eeM)] (March 2021)
 - [The Governance Game - a conversation starter tool](https://foss-backstage.de/session/governance-game-conversation-starter-tool), lightning talk by Jan Ainali at [FOSS Backstage conference](https://foss-backstage.de/) [[video](https://www.youtube.com/watch?v=-iAusIEx-_c)] (February 2021)
 - [How the Standard for Public Code can help you collaborate over space and time](https://foss-backstage.de/session/how-standard-public-code-can-help-you-collaborate-over-time-and-space), lightning talk by Eric Herman at [FOSS Backstage conference](https://foss-backstage.de/) [[video](https://www.youtube.com/watch?v=SKl3BX9kAbY)] (February 2021)
