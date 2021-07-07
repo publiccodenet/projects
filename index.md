@@ -37,7 +37,7 @@ Recorded as a live stream and then edited to an audio podcast version.
 
 The OSPO Alliance aims to help companies and public institutions discover and understand open source, start benefiting from it across their activities and grow to host an Open Source Program Office (OSPO). It will be focused on the role of OSPOs as an aspect of organizational governance essential in non-technology sectors including education and public administration.
 
-This is an initiative we've taken with the OW2, Eclipse Foundation and OpenForum Europe.
+This is an initiative we've taken with OW2, Eclipse Foundation and OpenForum Europe.
 
 ### [Bumperscripter](https://github.com/publiccodenet/bumperscripter/)
 
