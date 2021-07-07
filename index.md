@@ -33,6 +33,12 @@ The game is also useful as a tool for visualizing how a current governance model
 A podcast where we interview people with interesting perspectives on public code.
 Recorded as a live stream and then edited to an audio podcast version.
 
+### [OSPO Alliance and OSPO.Zone](https://ospo.zone/)
+
+The OSPO Alliance aims to help companies and public institutions discover and understand open source, start benefiting from it across their activities and grow to host an Open Source Program Office (OSPO). It will be focused on the role of OSPOs as an aspect of organizational governance essential in non-technology sectors including education and public administration.
+
+This is an initiative we've taken with OW2, Eclipse Foundation and OpenForum Europe.
+
 ### [Bumperscripter](https://github.com/publiccodenet/bumperscripter/)
 
 We made a script for our livestreamed podcast [Let's talk about public code](https://www.youtube.com/playlist?list=PL_5ziu2gADmBPPsDlo4sMt1M7Yd8LvOBK) to easily generate variations of a video bumper animation.
