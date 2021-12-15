@@ -30,6 +30,7 @@ Here are slides or recordings of conference talks we've given:
 
 We've written these blogposts and articles for publication on other platforms:
 
+- [The Standard for Public Code now (soon) in Danish](https://os2.eu/blog/blog-standard-public-code-nu-snart-aven-paa-danska) by Jan Ainali on os2.eu (November 2021) (in Swedish and English)
 - [Digital cultural public infrastructure](http://archis.org/volume/digital-cultural-public-infrastructure/) by Ben Cerveny in Volume 59: Futures Implied (June 2021)
 - [Why public values demand public code](https://ibestuur.nl/podium/waarom-publieke-waarden-om-publieke-code-vragen) by Arjan Widlak and Boris van Hoytema on iBestuur.nl (June 2021) (in Dutch)
 - [Collaboration in practice](https://os2.eu/blog/blog-samarbete-i-praktiken) by Jan Ainali on os2.eu (May 2021) (in Swedish and English)
