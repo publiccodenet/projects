@@ -6,7 +6,7 @@ We believe in making our information as accessible and open as possible.
 
 Here are slides or recordings of conference talks we've given:
 
-- https://twitter.com/publiccodenet/status/1468120655505801219?s=20&t=nB9r-bmplFkskbqFyKLxuQ
+- [Future digital public infrastructure laboratory](https://schedule.mozillafestival.org/session/8L9VED-1), by Jan Ainali, Elena Findley-de Regt and Ben Cerveny at [MozFest](https://www.mozillafestival.org/) 2022 [[video](https://files.publiccode.net/nextcloud/index.php/s/sZSL2HRm7755JpG)], [[Miro board](https://miro.com/app/board/uXjVOHHg4yk=/)] (March 2022)
 - Public Code: how it started, how it’s going!, by Ben Cerveny at [Code for all summit 2021](https://codeforall.org/summit-2021/) [[video](https://www.youtube.com/watch?v=u5My3x225qc)] (September 2021)
 - Real world collaboration through the Standard for Public Code, by Jan Ainali at [Open Source Summit India 2021](https://web.archive.org/web/20210630211728/https://oss2021.saintgits.org/) [[slides](https://files.publiccode.net/nextcloud/index.php/s/PkPJXwieN4kbKzL)] [[video](https://www.youtube.com/watch?v=gseddZ5IQ4M&t=14338)] (July 2021)
 - [Helping public organizations collectively develop and maintain public code](https://foss-north.se/2021/speakers-and-talks.html#jainali), by Jan Ainali at [FOSS-North](https://foss-north.se/2021/index.html) [[slides](https://files.publiccode.net/nextcloud/index.php/s/6dsfQHsoYR9W7DS)] [[video](https://conf.tube/videos/watch/bab4d723-7919-48cf-83e3-044dd0155b6d)] (June 2021)
