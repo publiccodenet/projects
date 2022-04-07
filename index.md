@@ -1,3 +1,8 @@
+---
+redirect_from:
+    talks-and-articles.md
+---
+
 # Resources and projects
 
 Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
@@ -5,7 +10,8 @@ Built when we discovered a need in our own [codebase stewardship practice](https
 See more of our work in:
 
 * the [codebases we work with](https://publiccode.net/codebases/)
-* [our conference talks and articles we've written](talks-and-articles.md)
+* [our conference talks](talks.md)
+* [articles we've written](articles.md)
 * [our blog](https://blog.publiccode.net/)
 
 ## Current projects
