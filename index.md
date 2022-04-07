@@ -4,8 +4,9 @@ Built when we discovered a need in our own [codebase stewardship practice](https
 
 See more of our work in:
 
-*  the [codebases we work with](https://publiccode.net/codebases/)
+* the [codebases we work with](https://publiccode.net/codebases/)
 * [our conference talks and articles we've written](talks-and-articles.md)
+* [our blog](https://blog.publiccode.net/)
 
 ## Current projects
 
