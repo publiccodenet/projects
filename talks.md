@@ -1,16 +1,15 @@
-# Talks and articles
+# Conference talks
 
 We believe in making our information as accessible and open as possible.
-
-## Conference talks
-
 Here are slides or recordings of conference talks we've given.
 
-### 2022
+Note: this is not a complete list of conference talks we've given.
+
+## 2022
 
 - [Future digital public infrastructure laboratory](https://schedule.mozillafestival.org/session/8L9VED-1), by Jan Ainali, Elena Findley-de Regt and Ben Cerveny at [MozFest](https://www.mozillafestival.org/) 2022 [[video](https://files.publiccode.net/nextcloud/index.php/s/sZSL2HRm7755JpG)], [[Miro board](https://miro.com/app/board/uXjVOHHg4yk=/)] (March 2022)
 
-### 2021
+## 2021
 
 - Public Code: how it started, how it’s going!, by Ben Cerveny at [Code for all summit 2021](https://codeforall.org/summit-2021/) [[video](https://www.youtube.com/watch?v=u5My3x225qc)] (September 2021)
 - Real world collaboration through the Standard for Public Code, by Jan Ainali at [Open Source Summit India 2021](https://web.archive.org/web/20210630211728/https://oss2021.saintgits.org/) [[slides](https://files.publiccode.net/nextcloud/index.php/s/PkPJXwieN4kbKzL)] [[video](https://www.youtube.com/watch?v=gseddZ5IQ4M&t=14338)] (July 2021)
@@ -24,7 +23,7 @@ Here are slides or recordings of conference talks we've given.
 - Standard for Public Code, by Jan Ainali at [Policies for open source in public agencies](https://www.goto10.se/event/policy-for-oppen-programvara-hos-myndigheter-varfor-och-hur-ar-de-formulerade/) [[slides](https://hackmd.io/@Ainali/ryFCCIgCw#/)] [[video](https://youtu.be/oxCtmQrKAls?t=3259)] (January 2021) (in Swedish)
 - [Software becomes Public Infrastructure](https://www.citybycity.com/session/software-becomes-public-infrastructure), interview with Ben Cerveny at the [Open and Agile Smart Cities CITYxCITY Festival](https://www.citybycity.com) [[video](https://www.youtube.com/watch?v=WhOb1YqasSc)] (January 2021)
 
-### 2020
+## 2020
 
 - Open Source in the Public Sector, by Jan Ainali at [GovTechDay](https://web.archive.org/web/20201021073851/https://www.govtechday.se/program) [[slides](https://hackmd.io/@Ainali/H1EQUI99D#/)] (December 2020) (in Swedish)
 - [Collaborative code, the government of the future](https://propuestas.eslib.re/2020/charlas/codigo-colaborativo-gobierno-futuro) by Alba Roza at [EsLibre 2020](https://eslib.re/2020/) [[video](https://youtu.be/iBi551I2E2c)] (November 2020) (in Spanish)
@@ -35,17 +34,13 @@ Here are slides or recordings of conference talks we've given.
 - From fringe to frontline, panel discussion with Ben Cerveny as part of the [States of Change 'How not to waste a crisis'](https://states-of-change.org/stories/how-not-to-waste-a-crisis) discussion series [[video](https://youtu.be/HcUOeuS7TlA)] (May 2020)
 - [Collaborative code is the future of governance](https://2020.openbelgium.be/session/collaborative-code-future-governance), by Jan Ainali for [Open Belgium 2020](https://2020.openbelgium.be/) [[slides](https://docs.google.com/presentation/d/12WHEjs4M7Tswo2cL8kxVKC4e1WIi3nAI2ZSCQ-PG2j0/edit)] [[video](https://youtu.be/2nMv2yqyGVI)] (March 2020)
 
-### 2019
+## 2019
 
 - [Collaborative Code is the Future of Cities](https://meta.decidim.org/conferences/decidimfest19/f/1035/meetings/1303), by Ben Cerveny at [Decidim Fest 2019](https://meta.decidim.org/conferences/decidimfest19?locale=en) [[video](https://youtu.be/cnJtnZ9Cx1o)] (October 2019)
 
-## Authored articles
+## Further reading
 
-We've written these blogposts and articles for publication on other platforms:
+You can see more of our work in:
 
-- [The Standard for Public Code now (soon) in Danish](https://os2.eu/blog/blog-standard-public-code-nu-snart-aven-paa-danska) by Jan Ainali on os2.eu (November 2021) (in Swedish and English)
-- [Digital cultural public infrastructure](http://archis.org/volume/digital-cultural-public-infrastructure/) by Ben Cerveny in Volume 59: Futures Implied (June 2021)
-- [Why public values demand public code](https://ibestuur.nl/podium/waarom-publieke-waarden-om-publieke-code-vragen) by Arjan Widlak and Boris van Hoytema on iBestuur.nl (June 2021) (in Dutch)
-- [Collaboration in practice](https://os2.eu/blog/blog-samarbete-i-praktiken) by Jan Ainali on os2.eu (May 2021) (in Swedish and English)
-- [Municipalities and the market are building the OpenZaak community together](https://opensource.pleio.nl/groups/view/75fc54b2-f4bf-4e67-a931-1d5b5b4c038a/open-source-community/blog/view/fb71fce6-a4c9-4195-a0bb-ad08b9dabfb7/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) by Felix Faassen on opensource.pleio.nl (November 2020) (in Dutch)
-- [Is reporting 100% of code coverage reasonable?](https://opensource.com/article/20/4/testing-code-coverage) by Eric Herman on Opensource.com (April 2020)
+- [articles we've authored](articles.md)
+- [our blog](https://blog.publiccode.net/)
