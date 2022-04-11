@@ -7,6 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2022
 
+- [Standard for Public Code](https://eventyay.com/e/6b901f56/session/7645), by Eric Herman and Jan Ainali at [FOSSAsia Summit 2022](https://eventyay.com/e/6b901f56) [[video](https://youtu.be/k19tFa0DklI?t=18300)], [[slides](https://files.publiccode.net/nextcloud/index.php/s/4Wn2wCbRbXwHdMH)] (April 2022)
 - [Future digital public infrastructure laboratory](https://schedule.mozillafestival.org/session/8L9VED-1), by Jan Ainali, Elena Findley-de Regt and Ben Cerveny at [MozFest](https://www.mozillafestival.org/) 2022 [[video](https://files.publiccode.net/nextcloud/index.php/s/sZSL2HRm7755JpG)], [[Miro board](https://miro.com/app/board/uXjVOHHg4yk=/)] (March 2022)
 
 ## 2021
