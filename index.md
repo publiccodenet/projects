@@ -1,11 +1,18 @@
+---
+redirect_from:
+    talks-and-articles.md
+---
+
 # Resources and projects
 
 Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
 
 See more of our work in:
 
-*  the [codebases we work with](https://publiccode.net/codebases/)
-* [our conference talks and articles we've written](talks-and-articles.md)
+* the [codebases we work with](https://publiccode.net/codebases/)
+* [our conference talks](talks.md)
+* [articles we've written](articles.md)
+* [our blog](https://blog.publiccode.net/)
 
 ## Current projects
 
@@ -21,6 +28,11 @@ This is a living document, and [we welcome your feedback](http://standard.public
 
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
 It's a self study course and offers a certification of completion to those who finish all the modules.
+
+#### [Community translations](https://publiccodenet.github.io/community-translations-standard/)
+
+To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
+It is possible to add more translations as more communities find it useful and are willing to translate and review.
 
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
