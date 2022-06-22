@@ -8,6 +8,7 @@ Note: this is not a complete list of conference talks we've given.
 ## 2022
 
 - [Future digital public infrastructure laboratory](https://schedule.mozillafestival.org/session/8L9VED-1), by Jan Ainali, Elena Findley-de Regt and Ben Cerveny at [MozFest](https://www.mozillafestival.org/) 2022 [[video](https://files.publiccode.net/nextcloud/index.php/s/sZSL2HRm7755JpG)], [[Miro board](https://miro.com/app/board/uXjVOHHg4yk=/)] (March 2022)
+- [Public Code track](https://fosdem.org/2022/schedule/track/public_code/), organized by us, with many talks at [FOSDEM 2022](https://fosdem.org/2022/) and most of them have video still available. (February 2022)
 
 ## 2021
 
