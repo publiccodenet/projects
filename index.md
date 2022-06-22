@@ -29,6 +29,11 @@ This is a living document, and [we welcome your feedback](http://standard.public
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
 It's a self study course and offers a certification of completion to those who finish all the modules.
 
+#### [Community translations](https://publiccodenet.github.io/community-translations-standard/)
+
+To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
+It is possible to add more translations as more communities find it useful and are willing to translate and review.
+
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
 An interactive game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
