@@ -37,7 +37,7 @@ Note: this is not a complete list of conference talks we've given.
 ## 2019
 
 - [Collaborative Code is the Future of Cities](https://meta.decidim.org/conferences/decidimfest19/f/1035/meetings/1303), by Ben Cerveny at [Decidim Fest 2019](https://meta.decidim.org/conferences/decidimfest19?locale=en) [[video](https://youtu.be/cnJtnZ9Cx1o)] (October 2019)
-- Open Source in Cities, webinar with Ben Cerveny for [SCIFI Smart City Innovation](http://smartcityinnovation.eu/) [[video](https://youtu.be/JYZCG9INAhs) (June 2019)
+- Open Source in Cities, webinar with Ben Cerveny for [SCIFI Smart City Innovation](http://smartcityinnovation.eu/) [[video](https://youtu.be/JYZCG9INAhs)] (June 2019)
 
 ## Further reading
 
