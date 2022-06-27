@@ -5,6 +5,7 @@ title: Projects
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Also render the README to HTML even if there is an index.md
 include:
