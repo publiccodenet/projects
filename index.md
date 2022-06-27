@@ -1,6 +1,6 @@
 ---
 redirect_from:
-    talks-and-articles.md
+    - /talks-and-articles
 ---
 
 # Resources and projects
