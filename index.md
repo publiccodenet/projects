@@ -24,6 +24,10 @@ The Standard for Public Code gives public organizations a model for building the
 
 This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
+#### [Community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/)
+
+To let the community of users of Standard for Public Code share their implementation choices for the criteria to guide other users, we created a resource where tips, examples and tools can be added.
+
 #### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
 
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
