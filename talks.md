@@ -7,6 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2022
 
+- Digital Public Infrastructure: Co-development and Stewardship of Public Code, by Ben Cerveny at [Open Source Lisbon](https://opensourcelisbon.syone.com/) [[video](https://www.youtube.com/watch?v=vrYhLVn4Ac0)] (October 2022)
 - [Fireside: Tailored for Success: The Growing Potential of Digital Public Goods](https://www.digitalsummit.ee/programme/fireside-tailored-for-success-the-growing-potential-of-digital-public-goods), by Ben Cerveny at [Tallinn Digital Summit](ttps://www.digitalsummit.ee) [[video](https://youtu.be/mptmCfPWG6k?t=21011)] (October 2022)
 - [Panel: Trusted Solutions for a Digital Society: Digital Public Goods](https://www.digitalsummit.ee/programme/panel-trusted-solutions-for-a-digital-society-digital-public-goods), by Ben Cerveny at [Tallinn Digital Summit](ttps://www.digitalsummit.ee) [[video](https://youtu.be/mptmCfPWG6k?t=23203)] (October 2022)
 - [Standard for Public Code](https://www.ow2con.org/view/2022/Abstract_Community_Day#08061125), by Jan Ainali and Eric Herman at [OW2con'22](https://www.ow2con.org/view/2022/) [[slides](https://files.publiccode.net/nextcloud/index.php/s/HM47a44LwGGgQJY)] [[video](https://youtu.be/u0s2pzF9BFI?t=5337)] (June 2022)
