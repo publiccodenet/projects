@@ -40,7 +40,7 @@ It is possible to add more translations as more communities find it useful and a
 
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
-An interactive game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
+A game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
 
 The game is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
