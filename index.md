@@ -40,6 +40,12 @@ It's a self study course and offers a certification of completion to those who f
 To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
 
+### [Software procurement process code](https://processcode.publiccode.net/)
+
+Process codes are flexible, collaborative, and adaptive guidebooks for a new government process. We invite you to test, revise, and expand these process codes, joining a growing community of practitioners.
+
+The software procurement process code helps public sector employees source the best possible software. It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting-edge best practices of development.
+
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
 A game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
