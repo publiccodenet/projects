@@ -42,9 +42,11 @@ It is possible to add more translations as more communities find it useful and a
 
 ### [Software procurement process code](https://processcode.publiccode.net/)
 
-Process codes are flexible, collaborative, and adaptive guidebooks for a new government process. We invite you to test, revise, and expand these process codes, joining a growing community of practitioners.
+Process codes are flexible, collaborative, and adaptive guidebooks for a new government process.
 
 The software procurement process code helps public sector employees source the best possible software. It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting-edge best practices of development.
+
+We invite you to test, revise, and expand this process code, joining a growing community of practitioners.
 
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
