@@ -15,3 +15,4 @@ You can see more of our work in our:
 
 - [conference talks](talks.md)
 - [blog](https://blog.publiccode.net/)
+- [press and media mentions](https://about.publiccode.net/activities/value-and-impact/all-press.html)
