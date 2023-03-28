@@ -5,6 +5,10 @@ Here are slides or recordings of conference talks we've given.
 
 Note: this is not a complete list of conference talks we've given.
 
+## 2023
+
+- [Public Code track](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/), organized by us and the Digital Public Goods Alliance, with many talks at [FOSDEM 2023](https://fosdem.org/2023/) and most of them have video available (February 2023)
+
 ## 2022
 
 - Digital Public Infrastructure: Co-development and Stewardship of Public Code, by Ben Cerveny at [Open Source Lisbon](https://opensourcelisbon.syone.com/) [[video](https://www.youtube.com/watch?v=vrYhLVn4Ac0)] (October 2022)
