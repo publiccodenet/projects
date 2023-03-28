@@ -56,3 +56,4 @@ You can see more of our work in:
 
 - [articles we've authored](articles.md)
 - [our blog](https://blog.publiccode.net/)
+- [press and media mentions](https://about.publiccode.net/activities/value-and-impact/all-press.html)
