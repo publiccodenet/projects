@@ -7,6 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2023
 
+- Öppen källkod och offentlig sektor, by Jan Ainali at the [Swedish Koha user group meeting](https://koha.se/koha-i-sverige/inbjudan-till-svenska-kohanatverkets-tionde-anvandarmote-28-mars-30-mars-2023-i-vasteras-med-biblioteken-i-vastmanland/) [[video](https://www.youtube.com/watch?v=ZFiTuhtts3M)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/WxHyjf6QTEpCPDF)] (March 2023) (in Swedish)
 - [In 2030, governments only use open source: a thought experiment](https://schedule.mozillafestival.org/session/BRR3GV-1), by Jan Ainali at [Mozilla Festival](https://www.mozillafestival.org/en/) [[video](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa27874-324f-490c-ba96-afcf00ebbb2b&start=0)] [[blog post summary](https://blog.publiccode.net/news/2023/03/27/exploring-a-world-of-open-source.html)] (March 2023)
 - [Public Code track](https://fosdem.org/2023/schedule/track/public_code_and_digital_public_goods/), organized by us and the Digital Public Goods Alliance, with many talks at [FOSDEM 2023](https://fosdem.org/2023/) and most of them have video available (February 2023)
 
