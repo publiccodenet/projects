@@ -61,6 +61,11 @@ We made a script for our livestreamed podcast [Let's talk about public code](htt
 
 When producing livestreams it's useful to have an introduction video for people who are joining the livestream so they know the stream is online, active and about to start.
 
+### [url-check](https://github.com/publiccodenet/url-check/)
+
+We made a script for checking the external links of repositories.
+In order to move away from each repository having to implement external link checking, especially as many links are the same across repositories, we use this script in [publiccodenet-url-check](https://publiccodenet.github.io/publiccodenet-url-check/) to check the list of external links of several repositories in a single place.
+
 ## Past projects
 
 Though our involvement with these projects has finished, we learned a lot from them. Perhaps you will too?
