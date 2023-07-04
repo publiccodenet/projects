@@ -7,6 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2023
 
+- [Introduction to Public Code](https://nluug.nl/activiteiten/events/vj23/abstracts/ab18.html) by Jan Ainali at [NLUUG Voorjaarsconferentie 2023](https://nluug.nl/activiteiten/events/vj23/index.html) [[video](https://www.youtube.com/watch?v=OqPsOfR_9lw)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/kpLGWQQWGy4KebC)] (May 2023)
 - Öppen källkod och offentlig sektor, by Jan Ainali at the [Swedish Koha user group meeting](https://koha.se/koha-i-sverige/inbjudan-till-svenska-kohanatverkets-tionde-anvandarmote-28-mars-30-mars-2023-i-vasteras-med-biblioteken-i-vastmanland/) [[video](https://www.youtube.com/watch?v=ZFiTuhtts3M)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/WxHyjf6QTEpCPDF)] (March 2023) (in Swedish)
 - From Data to Digital Infrastructure: Spatial Data & Mobility panel, with Ben Cerveny at [Portland Open Data Day](https://www.smartcitypdx.com/events/2023/3/24/portland-open-data-day-2023-disco-tech) [[video](https://www.youtube.com/watch?v=CItKadgLuHE)] (March 2023)
 - [In 2030, governments only use open source: a thought experiment](https://schedule.mozillafestival.org/session/BRR3GV-1), by Jan Ainali at [Mozilla Festival](https://www.mozillafestival.org/en/) [[video](https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2aa27874-324f-490c-ba96-afcf00ebbb2b&start=0)] [[blog post summary](https://blog.publiccode.net/news/2023/03/27/exploring-a-world-of-open-source.html)] (March 2023)
