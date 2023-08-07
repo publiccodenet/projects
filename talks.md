@@ -7,6 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2023
 
+- [Wouldn't it be good if there was a standard for public code?](https://programm.froscon.org/2023/events/2960.html) by Jan Ainali at [FrOsCon](https://froscon.org) [[video](https://media.ccc.de/v/froscon2023-2960-wouldn_t_it_be_good_if_there_was_a_standard_for_public_code)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/froscon2023)] (August 2023)
 - [Introduction to the Governance game](https://ospo-alliance.org/onramp/past_meetings/) by Jan Ainali at [OSPO Alliance OnRamp](https://ospo-alliance.org/onramp/) [[Video](https://bbb.opencloud.lu/playback/video/e1d2665ed6d4ad3a07f23e5a3638fe49dc3a95b8-1686902873481)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/govgameintro)] (June 2023)
 - [Introduction to Public Code](https://nluug.nl/activiteiten/events/vj23/abstracts/ab18.html) by Jan Ainali at [NLUUG Voorjaarsconferentie 2023](https://nluug.nl/activiteiten/events/vj23/index.html) [[video](https://www.youtube.com/watch?v=OqPsOfR_9lw)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/kpLGWQQWGy4KebC)] (May 2023)
 - Öppen källkod och offentlig sektor, by Jan Ainali at the [Swedish Koha user group meeting](https://koha.se/koha-i-sverige/inbjudan-till-svenska-kohanatverkets-tionde-anvandarmote-28-mars-30-mars-2023-i-vasteras-med-biblioteken-i-vastmanland/) [[video](https://www.youtube.com/watch?v=ZFiTuhtts3M)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/WxHyjf6QTEpCPDF)] (March 2023) (in Swedish)
