@@ -22,6 +22,8 @@ We rely on these resources for our everyday work.
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
 
+[![Standard for Public Code video on YouTube](assets/standard-video.png)](https://www.youtube-nocookie.com/embed/QWt6vB-cipE?si=R7lOP5GrhbUznL2a)
+
 This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
 #### [Community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/)
