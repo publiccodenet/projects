@@ -20,7 +20,10 @@ We rely on these resources for our everyday work.
 
 ### [Standard for Public Code](http://standard.publiccode.net/)
 
-The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations. It includes guidance for policymakers, managers, developers and designers.
+The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by other public organizations.
+It includes guidance for policymakers, managers, developers and designers.
+
+[![Standard for Public Code video on YouTube](assets/standard-video.png)](https://www.youtube-nocookie.com/embed/QWt6vB-cipE?si=R7lOP5GrhbUznL2a)
 
 This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
@@ -38,9 +41,19 @@ It's a self study course and offers a certification of completion to those who f
 To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
 
+### [Software procurement process code](https://processcode.publiccode.net/)
+
+Process codes are flexible, collaborative, and adaptive guidebooks for a new government process.
+
+The software procurement process code helps public sector employees source the best possible software.
+It walks through government contracting step-by-step, aligning legitimate public procurement with the cutting-edge best practices of development.
+
+We invite you to test, revise, and expand this process code, joining a growing community of practitioners.
+
 ### [Governance game](https://github.com/publiccodenet/governance-game)
 
-A game exploring governance of a public codebase. It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
+A game exploring governance of a public codebase.
+It helps participants reflect on what governances means for a codebase, the complexity around it, and surfaces issues worth considering during set up.
 
 The game is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
@@ -51,7 +64,8 @@ Recorded as a live stream and then edited to an audio podcast version.
 
 ### [OSPO Alliance and OSPO.Zone](https://ospo.zone/)
 
-The OSPO Alliance aims to help companies and public institutions discover and understand open source, start benefiting from it across their activities and grow to host an Open Source Program Office (OSPO). It will be focused on the role of OSPOs as an aspect of organizational governance essential in non-technology sectors including education and public administration.
+The OSPO Alliance aims to help companies and public institutions discover and understand open source, start benefiting from it across their activities and grow to host an Open Source Program Office (OSPO).
+It will be focused on the role of OSPOs as an aspect of organizational governance essential in non-technology sectors including education and public administration.
 
 This is an initiative we've taken with OW2, Eclipse Foundation and OpenForum Europe.
 
@@ -72,7 +86,9 @@ Though our involvement with these projects has finished, we learned a lot from t
 
 ### [Smart Cities? Public Code!](https://smartcities.publiccode.net/) (February 2018 - April 2019)
 
-This research project aimed to further develop the concept of public code. It explored how we should understand public code, and how could we create it. What kind of technological and institutional arrangements are needed to shift towards the production of public code?
+This research project aimed to further develop the concept of public code.
+It explored how we should understand public code, and how could we create it.
+What kind of technological and institutional arrangements are needed to shift towards the production of public code?
 
 Smart Cities? Public Code! was a collaboration between the City of Amsterdam, the Amsterdam University of Applied Sciences and Vurb.Agency.
 
