@@ -8,7 +8,9 @@ redirect_from:
 Below you can find a set of resources we have developed to support our [codebase stewardship practice](https://publiccode.net/codebase-stewardship/).
 These resources are all openly licensed, so please feel free to reuse them.
 We'd love to hear from you if you do.
+
 We are also always open for contributions and ideas for improvements.
+We would particularly appreciate contributions to the resources marked with :sparkles:!
 
 Note this page does not include:
 
@@ -34,6 +36,8 @@ This is a living document, and [we welcome your feedback](http://standard.public
 
 To let the community of users of Standard for Public Code share their implementation choices for the criteria to guide other users, we created a resource where tips, examples and tools can be added.
 
+:sparkles: Contribution requested - [help us](https://github.com/publiccodenet/community-implementation-guide-standard#readme) add examples and further reading :sparkles:
+
 #### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
 
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
@@ -43,6 +47,8 @@ It's a self study course and offers a certification of completion to those who f
 
 To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
+
+:sparkles: Contribution requested - [help us](https://github.com/publiccodenet/community-translations-standard#readme) add more and improve existing translations :sparkles:
 
 ### [Software procurement process code](https://processcode.publiccode.net/)
 
