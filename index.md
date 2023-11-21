@@ -48,7 +48,7 @@ It's a self study course and offers a certification of completion to those who f
 To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
 
-:sparkles: Contribution requested - [help us](https://github.com/publiccodenet/community-translations-standard#readme) add more and improve existing translations :sparkles:
+:sparkles: Contribution requested - [help us](https://github.com/publiccodenet/community-translations-standard#readme) add new and improve existing translations :sparkles:
 
 ### [Software procurement process code](https://processcode.publiccode.net/)
 
