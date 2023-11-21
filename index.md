@@ -103,6 +103,8 @@ Smart Cities? Public Code! was a collaboration between the City of Amsterdam, th
 
 ### [publiccode.yml](https://github.com/publiccodenet/publiccode.yml) (2018)
 
-A simple, easy to use, developer-centric, public administration open source project metadata format.
+A simple, easy to use, developer-centric, open source project metadata format for software developed or acquired by public administrations.
 
-Adopted by the Italian government for all new public code projects in Italy, this standard powers the [Italian national open source software catalog](https://developers.italia.it/it/software).
+While we are no longer actively involved, we strongly encourage you to follow the project at [yml.publiccode.tools](https://yml.publiccode.tools/), or check out their [GitHub repository](https://github.com/publiccodeyml/publiccode.yml).
+
+The standard has been adopted by the Italian government for all new public code projects in Italy, and powers the [Italian national open source software catalog](https://developers.italia.it/it/software).
