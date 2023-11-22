@@ -5,7 +5,9 @@ redirect_from:
 
 # Resources and projects
 
-Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
+Below you can find a set of resources we have developed to support our [codebase stewardship practice](https://publiccode.net/codebase-stewardship/).
+These resources are all openly licensed, so please feel free to reuse them.
+We'd love to hear from you if you do.
 
 See more of our work in:
 
