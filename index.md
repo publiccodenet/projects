@@ -9,7 +9,7 @@ Below you can find a set of resources we have developed to support our [codebase
 These resources are all openly licensed, so please feel free to reuse them.
 We'd love to hear from you if you do.
 
-See more of our work in:
+In addition to the resources below, also check out:
 
 * the [codebases we work with](https://publiccode.net/codebases/)
 * [our conference talks](talks.md)
