@@ -12,7 +12,7 @@ We'd love to hear from you if you do.
 We are also always open for contributions and ideas for improvements.
 We would particularly appreciate contributions to the resources marked with :hammer_and_wrench:.
 
-Note this page does not include:
+See more of our work in:
 
 * the [codebases we work with](https://publiccode.net/codebases/)
 * [our conference talks](talks.md)
