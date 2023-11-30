@@ -5,9 +5,14 @@ redirect_from:
 
 # Resources and projects
 
-Built when we discovered a need in our own [codebase stewardship practice](https://publiccode.net/codebase-stewardship/), these resources are all openly licensed. We'd love to hear how you use these.
+Below you can find a set of resources we have developed to support our [codebase stewardship practice](https://publiccode.net/codebase-stewardship/).
+These resources are all openly licensed, so please feel free to reuse them.
+We'd love to hear from you if you do.
 
-See more of our work in:
+We are also always open for contributions and ideas for improvements.
+We would particularly appreciate contributions to the resources marked with :hammer_and_wrench:.
+
+In addition to the resources below, also check out:
 
 * the [codebases we work with](https://publiccode.net/codebases/)
 * [our conference talks](talks.md)
@@ -31,6 +36,8 @@ This is a living document, and [we welcome your feedback](http://standard.public
 
 To let the community of users of Standard for Public Code share their implementation choices for the criteria to guide other users, we created a resource where tips, examples and tools can be added.
 
+:hammer_and_wrench: Contribution requested - [help us](https://github.com/publiccodenet/community-implementation-guide-standard#readme) add examples and further reading.
+
 #### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
 
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
@@ -40,6 +47,8 @@ It's a self study course and offers a certification of completion to those who f
 
 To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
+
+:hammer_and_wrench: Contribution requested - [help us](https://github.com/publiccodenet/community-translations-standard#readme) add new and improve existing translations.
 
 ### [Software procurement process code](https://processcode.publiccode.net/)
 
@@ -94,6 +103,8 @@ Smart Cities? Public Code! was a collaboration between the City of Amsterdam, th
 
 ### [publiccode.yml](https://github.com/publiccodenet/publiccode.yml) (2018)
 
-A simple, easy to use, developer-centric, public administration open source project metadata format.
+A simple, easy to use, developer-centric, open source project metadata format for software developed or acquired by public administrations.
 
-Adopted by the Italian government for all new public code projects in Italy, this standard powers the [Italian national open source software catalog](https://developers.italia.it/it/software).
+While we are no longer actively involved, we strongly encourage you to follow the project at [yml.publiccode.tools](https://yml.publiccode.tools/), or check out their [GitHub repository](https://github.com/publiccodeyml/publiccode.yml).
+
+The standard has been adopted by the Italian government for all new public code projects in Italy, and powers the [Italian national open source software catalog](https://developers.italia.it/it/software).
