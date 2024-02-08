@@ -5,6 +5,10 @@ Here are slides or recordings of conference talks we've given.
 
 Note: this is not a complete list of conference talks we've given.
 
+## 2024
+
+- [Public Code track](https://fosdem.org/2024/schedule/track/public-code-and-digital-public-goods/), organized by us and the Digital Public Goods Alliance, with many talks at [FOSDEM 2024](https://fosdem.org/2024/) and most of them have video available (February 2024)
+
 ## 2023
 
 - [Sovereignty through collaboration](https://disco.si/programme/day-2/#knowledge-exchange) by Jan Ainali at [DISCO Slovenia](https://disco.si/) [[pre-conference radio interview](https://radiostudent.si/politika/apr-intervju/jan-ainali)] [[conference speaker interview](https://disco.si/speaker-interview-jan-ainali/)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/DISCOSlovenia)] (October 2023)
