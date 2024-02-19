@@ -7,7 +7,7 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2024
 
--[Why does public code need a standard?](https://stateofopencon2024.sched.com/event/1Xl3o) by Jan Ainali at [State of Open Con 24](https://stateofopencon.com/) [[video](https://www.youtube.com/watch?v=8YELQ4-QXPc)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/stateofopencon24)]
+- [Why does public code need a standard?](https://stateofopencon2024.sched.com/event/1Xl3o) by Jan Ainali at [State of Open Con 24](https://stateofopencon.com/) [[video](https://www.youtube.com/watch?v=8YELQ4-QXPc)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/stateofopencon24)]
 - [Public Code track](https://fosdem.org/2024/schedule/track/public-code-and-digital-public-goods/), organized by us and the Digital Public Goods Alliance, with many talks at [FOSDEM 2024](https://fosdem.org/2024/) and most of them have video available (February 2024)
 
 ## 2023
