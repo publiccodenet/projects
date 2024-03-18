@@ -7,7 +7,8 @@ Note: this is not a complete list of conference talks we've given.
 
 ## 2024
 
-- [Why does public code need a standard?](https://stateofopencon2024.sched.com/event/1Xl3o) by Jan Ainali at [State of Open Con 24](https://stateofopencon.com/) [[video](https://www.youtube.com/watch?v=8YELQ4-QXPc)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/stateofopencon24)]
+- Using the Standard for Public Code now and in the future [[slides](https://files.publiccode.net/nextcloud/index.php/s/OSPOlogy2024)] by Jan Ainali and Stewardship organizations and the public sector [[slides](https://files.publiccode.net/nextcloud/index.php/s/GNan9NH3m68SyQ7)] by Elena Findley-de Regt at [OSPOlogy Live Apeldoorn](https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-apeldoorn/) (February 2024)
+- [Why does public code need a standard?](https://stateofopencon2024.sched.com/event/1Xl3o) by Jan Ainali at [State of Open Con 24](https://stateofopencon.com/) [[video](https://www.youtube.com/watch?v=8YELQ4-QXPc)] [[slides](https://files.publiccode.net/nextcloud/index.php/s/stateofopencon24)] (February 2024)
 - [Public Code track](https://fosdem.org/2024/schedule/track/public-code-and-digital-public-goods/), organized by us and the Digital Public Goods Alliance, with many talks at [FOSDEM 2024](https://fosdem.org/2024/) and most of them have video available (February 2024)
 
 ## 2023
