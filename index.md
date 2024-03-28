@@ -32,23 +32,23 @@ It includes guidance for policymakers, managers, developers and designers.
 
 This is a living document, and [we welcome your feedback](http://standard.publiccode.net/CONTRIBUTING.html).
 
-#### [Community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/)
+#### [Community built implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/)
 
 To let the community of users of Standard for Public Code share their implementation choices for the criteria to guide other users, we created a resource where tips, examples and tools can be added.
 
-:hammer_and_wrench: Contribution requested - [help us](https://github.com/publiccodenet/community-implementation-guide-standard#readme) add examples and further reading.
+:hammer_and_wrench: Contribution requested - [help us](https://github.com/standard-for-public-code/community-implementation-guide-standard#readme) add examples and further reading.
 
 #### [Introduction course](https://citybycity.academy/course/standards-for-smart-cities)
 
 Together with [Open & Agile Smart Cities](https://oascities.org/) we have created a free and open online introduction course to the Standard for Public Code.
 It's a self study course and offers a certification of completion to those who finish all the modules.
 
-#### [Community translations](https://publiccodenet.github.io/community-translations-standard/)
+#### [Community translations](https://standard-for-public-code.github.io/community-translations-standard/)
 
-To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/publiccodenet/community-translations-standard) allows for the community to collaborate on translations of it.
+To increase the accessibility of the Standard for Public Code, the [translations repository](https://github.com/standard-for-public-code/community-translations-standard) allows for the community to collaborate on translations of it.
 It is possible to add more translations as more communities find it useful and are willing to translate and review.
 
-:hammer_and_wrench: Contribution requested - [help us](https://github.com/publiccodenet/community-translations-standard#readme) add new and improve existing translations.
+:hammer_and_wrench: Contribution requested - [help us](https://github.com/standard-for-public-code/community-translations-standard#readme) add new and improve existing translations.
 
 ### [Software procurement process code](https://processcode.publiccode.net/)
 
@@ -66,7 +66,7 @@ It helps participants reflect on what governances means for a codebase, the comp
 
 The game is also useful as a tool for visualizing how a current governance model is set up or could be changed.
 
-### [Let's talk about public code](https://podcast.publiccode.net)
+### [Let's talk about public code](https://open.audio/channels/lets_talk_about_public_code)
 
 A podcast where we interview people with interesting perspectives on public code.
 Recorded as a live stream and then edited to an audio podcast version.
